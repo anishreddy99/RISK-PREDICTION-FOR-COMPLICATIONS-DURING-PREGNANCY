@@ -7,7 +7,7 @@ Install:
 This project requires Python to run the code file. Which requires sklearn, pandas and few other libraries to execute the code and solve the problem.
 
 Code:
-The used dataset is in the folder,There are 3 datasets used in this project SampleNLP has the clinical and doctor advice notes, basic_updated file is the original dataset and the data_preview is the synthetic datase, There is 2 ipynb file risk prediction during pregnancy which has all the cleaning and EDA process that was conducted and the prediction of risk that are specific to each risk that was given both the original adn synthetic dataset can be used for is file. The second file has all the wordcloud and frequency density plot use SampleNLP dataset in the folder.
+The used dataset is in the folder,There are 3 datasets used in this project SampleNLP has the clinical and doctor advice notes, basic_updated file is the original dataset and the data_preview is the synthetic datase, There is 2 ipynb file risk prediction during pregnancy-2 which has all the cleaning and EDA process that was conducted and the prediction of risk to overall risks, and that are specific to each risk that was given both the original and synthetic dataset can be used for is file. The second file has all the wordcloud and frequency density plot use SampleNLP dataset in the folder.
 
 Run:
 Use this read me file to understand and use the code files to make the prediction.
